@@ -76,33 +76,33 @@ PB1  % Complete
 
 Selection Texts
 
-P_DEEP  Dependencies Deepness
+P_DEEP    Dependencies Deepness
 
-P_ERFC  Exclude RFCs if exist
+P_ERFC    Exclude RFCs if exist
 
-P_ICD  Include Tables CDs
+P_ICD     Include Tables CDs
 
-P_ILO  Include Tables Locks
+P_ILO     Include Tables Locks
 
-P_ITM  Include Tables Maintenances
+P_ITM     Include Tables Maintenances
 
 P_OBJECT  Object Type
 
-P_OBJ_N  Object Name
+P_OBJ_N   Object Name
 
-P_PGMID  Program ID
+P_PGMID   Program ID
 
-P_RFC  Remote Versions Checks
+P_RFC     Remote Versions Checks
 
-P_RFC_D  System Name
+P_RFC_D   System Name
 
-P_ST  Include Standard Objects
+P_ST      Include Standard Objects
 
-P_TR  Transport Request
+P_TR      Transport Request
 
-R_OBJ  Check Workbench Object
+R_OBJ     Check Workbench Object
 
-R_TR  Check Transport Request
+R_TR      Check Transport Request
 
 
 Standard Status GUI function codes: &ALL, &SAL, &OUP, &ODN, &ILT, %PC, &OL0, &OAD and &AVE
